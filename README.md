@@ -28,8 +28,7 @@ The dashboard analyzes:
 - Average Order Value: ₹268.51
 - Total Orders: 197,430
 
-- <img width="1365" height="755" alt="Swiggy Project Dashboard" src="https://github.com/user-attachments/assets/117db432-fa53-4c09-a9c7-fd84f44fbc95" />
-
+<img width="1365" height="755" alt="Swiggy Project Dashboard" src="https://github.com/user-attachments/assets/bd25d1f9-539c-4ca0-be7b-c4d2948a6120" />
 
 ## Key Insights
 1. Bengaluru generated the highest revenue.
