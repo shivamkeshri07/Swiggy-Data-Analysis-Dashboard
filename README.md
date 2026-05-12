@@ -11,8 +11,7 @@ The dashboard analyzes:
 - Sales Trends
 - State-wise Performance
 - Food Category Analysis
-
-<img width="1672" height="941" alt="KPI Problem Statement" src="https://github.com/user-attachments/assets/8f090a8c-0fe6-4f34-a49b-822268a0c3a2" />
+<img width="1671" height="745" alt="KPI Problem Statement" src="https://github.com/user-attachments/assets/3f5ecb5f-4141-4750-a676-da9823ff2dea" />
 
 
 ## Tools Used
