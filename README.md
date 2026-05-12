@@ -12,6 +12,9 @@ The dashboard analyzes:
 - State-wise Performance
 - Food Category Analysis
 
+<img width="1672" height="941" alt="KPI Problem Statement" src="https://github.com/user-attachments/assets/8f090a8c-0fe6-4f34-a49b-822268a0c3a2" />
+
+
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables
@@ -25,6 +28,9 @@ The dashboard analyzes:
 - Average Rating: 4.34
 - Average Order Value: ₹268.51
 - Total Orders: 197,430
+
+- <img width="1365" height="755" alt="Swiggy Project Dashboard" src="https://github.com/user-attachments/assets/117db432-fa53-4c09-a9c7-fd84f44fbc95" />
+
 
 ## Key Insights
 1. Bengaluru generated the highest revenue.
